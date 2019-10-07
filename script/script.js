@@ -8,3 +8,4 @@ function changeColor() {
   const randomColor = "rgb(" + random() + "," + random() + "," + random() + ")";
   document.body.style.backgroundColor = randomColor;
 }
+console.log("HEllo");
